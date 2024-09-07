@@ -1,5 +1,5 @@
-# Face-Recognition-Project
-Face Recognition Based Smart Attendance Monitoring & Tracking System
+# Face Recognition Based Smart Attendance Monitoring & Tracking System
+
 -> The system captures images and extracted the parameters such as eyes, nose, face by HOG (Histogram of
 Gradient) method.
 -> It compares the extracted features with a pre-stored database of students or employees to match the

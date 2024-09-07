@@ -7,7 +7,7 @@ characteristics.
  When it is recognized correctly, then the attendance is stored with its entering date and time in attendance excel
 sheet.
 
-Tools & Technologies:
+# Tools & Technologies:
 Python with Deep Learning, Neural Network Frameworks
 Libraries Used-OpenCV(HOG), NumPy, Face Recognition
 Coding IDE-VS code, PyCharm

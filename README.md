@@ -1,9 +1,9 @@
 # Face Recognition Based Smart Attendance Monitoring & Tracking System
 
 -> The system captures images and extracted the parameters such as eyes, nose, face by HOG (Histogram of
-Gradient) method.
+Gradient) method. \n
 -> It compares the extracted features with a pre-stored database of students or employees to match the
-characteristics.
+characteristics. \n
 -> When it is recognized correctly, then the attendance is stored with its entering date and time in attendance excel
 sheet.
 
